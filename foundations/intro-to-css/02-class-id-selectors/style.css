@@ -1,0 +1,20 @@
+.odd-points {
+    background-color: #ffb6c1;
+    font-family: Verdana, 'Dejavu Sans', sans-serif;
+}
+
+.third-point {
+    font-size: 24px;
+}
+
+#point-two {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#point-four {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+
+}
